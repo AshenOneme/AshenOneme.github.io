@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:     "OpenSeespy教程-1"
-subtitle:   " \"Hello World, Hello Blog\""
+subtitle:   " \"OpenSees从零开始\""
 date:   2023-02-06
 author:     "Ashen"
 header-img: "img/post-bg-2015.jpg"
