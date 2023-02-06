@@ -5,6 +5,7 @@ subtitle:   " \"OpenSees从零开始\""
 date:   2023-02-06
 author:     "Ashen"
 header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
     - OpenSees
 ---
