@@ -1,3 +1,18 @@
+---
+layout:     post
+title:     "OpenSeespy教程-2"
+subtitle:   " \"OpenSees第二课常用材料篇\""
+date:   2023-02-06
+author:     "Ashen"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - OpenSees
+---
+
+# 来源
+
+[Case 1-OpenSeespy基本建模流程(以一根柱为例)](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case%201-OpenSeespy%E5%9F%BA%E6%9C%AC%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B(%E4%BB%A5%E4%B8%80%E6%A0%B9%E6%9F%B1%E4%B8%BA%E4%BE%8B))
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### OpenSeespy中的常用材料
