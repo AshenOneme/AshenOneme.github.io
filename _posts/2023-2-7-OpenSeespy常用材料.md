@@ -12,7 +12,7 @@ tags:
 
 # 来源
 
-[Case2: OpenSeespy中常用材料](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/blob/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete)/Case2-Markdown/Case2.md)
+[Case2: OpenSeespy中常用材料](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete))
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### OpenSeespy中的常用材料
