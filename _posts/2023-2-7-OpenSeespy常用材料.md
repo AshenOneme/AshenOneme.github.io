@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:     "OpenSeespy教程-2"
-subtitle:   " \"OpenSees第二课常用材料篇\""
-date:   2023-02-06
+subtitle:   " \"OpenSees第二课常用材料\""
+date:   2023-02-07
 author:     "Ashen"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -12,7 +12,7 @@ tags:
 
 # 来源
 
-[Case2: OpenSeespy中常用材料](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete))
+[__Case2: OpenSeespy中常用材料__](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete))
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### OpenSeespy中的常用材料
