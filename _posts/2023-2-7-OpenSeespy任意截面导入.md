@@ -11,9 +11,7 @@ tags:
 ---
 
 # 来源
-
-[Case2: OpenSeespy中常用材料](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete))
-
+[__Case3: OpenSeespy任意截面导入__](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/blob/main/Case3-%E4%BB%BB%E6%84%8F%E6%88%AA%E9%9D%A2%E5%AF%BC%E5%85%A5)    
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### OpenSeespy添加任意截面
