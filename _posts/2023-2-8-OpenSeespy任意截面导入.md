@@ -4,7 +4,7 @@ title:     "OpenSeespy教程-3"
 subtitle:   " \"OpenSees第三课任意截面\""
 date:   2023-02-08
 author:     "Ashen"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-hacker.jpg"
 catalog: true
 tags:
     - OpenSees
