@@ -1,3 +1,19 @@
+---
+layout:     post
+title:     "OpenSeespy教程-3"
+subtitle:   " \"OpenSees第三课任意截面\""
+date:   2023-02-08
+author:     "Ashen"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - OpenSees
+---
+
+# 来源
+
+[Case2: OpenSeespy中常用材料](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/tree/main/Case2-%E5%B8%B8%E7%94%A8%E6%9D%90%E6%96%99(Steel%26Concrete))
+
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### OpenSeespy添加任意截面
