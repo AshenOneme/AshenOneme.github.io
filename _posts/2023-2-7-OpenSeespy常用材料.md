@@ -4,7 +4,7 @@ title:     "OpenSeespy教程-2"
 subtitle:   " \"OpenSees第二课常用材料\""
 date:   2023-02-07
 author:     "Ashen"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-re-vs-ng2.jpg"
 catalog: true
 tags:
     - OpenSees
