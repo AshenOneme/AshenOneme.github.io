@@ -1,3 +1,18 @@
+---
+layout:     post
+title:     "OpenSeespy教程-4"
+subtitle:   " \"OpenSees第四课常用截面\""
+date:   2023-02-09
+author:     "Ashen"
+header-img: "img/post-bg-hacker.jpg"
+catalog: true
+tags:
+    - OpenSees
+---
+
+# 来源
+[__Case3: OpenSeespy任意截面导入__](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/blob/main/Case3-%E4%BB%BB%E6%84%8F%E6%88%AA%E9%9D%A2%E5%AF%BC%E5%85%A5)    
+
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
 ### 在OpenSeespy中快捷添加常用截面(任意四边形、圆形、环形、工字形。。。)进行分析
