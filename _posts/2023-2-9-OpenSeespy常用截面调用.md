@@ -11,7 +11,7 @@ tags:
 ---
 
 # 来源
-[__Case3: OpenSeespy任意截面导入__](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/blob/main/Case3-%E4%BB%BB%E6%84%8F%E6%88%AA%E9%9D%A2%E5%AF%BC%E5%85%A5)    
+[__Case4: OpenSeespy建立常用截面__](https://github.com/AshenOneme/OpenSeespy-common-problems-and-cases/blob/main/Case4-%E5%B8%B8%E7%94%A8%E6%88%AA%E9%9D%A2%E5%BD%A2%E5%BC%8F/Case4-Markdown/Case4.md)   
 
 # Edited by Ashen; 微信公众号:爱研思谈; Github:AshenOneme
 
